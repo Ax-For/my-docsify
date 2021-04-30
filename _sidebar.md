@@ -1,1 +1,2 @@
-\* [DeepLab](docs/deeplab/DeepLab) 
+* [DeepLab](deeplab/DeepLab) 
+
